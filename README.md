@@ -1,6 +1,8 @@
 # mcu-boot-scanner
 
-Prints out info for MCU Boot Image binaries
+Prints out info for MCU Boot Image binaries.
+
+See [Mcu Bootloader Spec](https://github.com/mcu-tools/mcuboot/blob/main/docs/design.md) for details.
 
 # Build
 
