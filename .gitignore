@@ -1,4 +1,5 @@
 mcuscanner
 a.out
 *.img
+.DS_Store
 
